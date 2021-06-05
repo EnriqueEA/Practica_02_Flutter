@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 # Practica_02_Flutter
 
-![image](https://{https://i.pinimg.com/originals/47/40/2f/47402febbf38c4aae6a71f45c9b92f3c.jpg})
+![image](https://{i.pinimg.com/originals/47/40/2f/47402febbf38c4aae6a71f45c9b92f3c.jpg})
